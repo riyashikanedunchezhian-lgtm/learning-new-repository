@@ -10,7 +10,8 @@ and contribute to impactful projects like Bitcoin.
 Currently learning:
 - Java & Data Structures
 - Git & GitHub
-- C++ basics
+- C++
+- GPU Computing
 - Linux fundamentals
 
 I believe in learning deeply, contributing honestly, and creating value.
