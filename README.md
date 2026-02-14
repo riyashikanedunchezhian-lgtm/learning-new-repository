@@ -1,7 +1,18 @@
 # Learning Open Source
 
-Hi, I’m Riyashika, a first-year CSE student learning programming and systems.
+Hi, I’m Riyashika Nedunchezhian 👋  
+First-year Computer Science student passionate about building meaningful software.
 
-This repository marks my journey into open-source development and real-world engineering.
-I aim to contribute to impactful projects and learn from the community.
+This repository marks the beginning of my open-source journey.  
+My goal is to understand how large systems are built, collaborate with others,
+and contribute to impactful projects like Bitcoin.
+
+Currently learning:
+- Java & Data Structures
+- Git & GitHub
+- C++ basics
+- Linux fundamentals
+
+I believe in learning deeply, contributing honestly, and creating value.
+This is my first step into the open-source world.
 
